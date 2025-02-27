@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [DatabaseKnowledgeable](#databaseknowledgeable)
+- [dir-structure-for-ddd-in-php](#dir-structure-for-ddd-in-php)
   - [Licencia](#licencia)
   - [Caracteristicas ¿Qué te ofrece?](#caracteristicas-%C2%BFqu%C3%A9-te-ofrece)
   - [Features to implement / Caracteristicas a implementar](#features-to-implement--caracteristicas-a-implementar)
@@ -13,7 +13,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-# DatabaseKnowledgeable
+# dir-structure-for-ddd-in-php
 
 [Readme version in English](./README-EN.md)
 

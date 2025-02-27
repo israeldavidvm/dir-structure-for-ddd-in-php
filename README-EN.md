@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Database Knowledgeable](#database-knowledgeable)
+- [Dir-Structure-ForDD-In-Php](#dir-structure-fordd-in-php)
   - [License](#license)
   - [Characteristics What does it offer?](#characteristics-what-does-it-offer)
   - [features to implement / characteristics to be implemented](#features-to-implement--characteristics-to-be-implemented)
@@ -18,7 +18,7 @@
 <!-Don's Edit This Section, Instead Re-Run Doctor to Update->
 ** Table of content ***generated with [doctoc] (https://github.com/thlorenz/doctoc)*
 
-- [Database Knowledgeable] (#databaseknowledageable)
+-[Dir-Structure-Ford-DD-In-Php] (#Dir-Structure-Ford-DD-In-Php)
 - [License] (#license)
 -[CHARACTERISTICS WHAT OFFER YOU?] (#CHARACTERISTICS-%C2%BFQU%C3%A9-TE-DEFREE)
 -[features to implement / characteristics to be implemented] (#features-to-implement-caracteristic-to-implement)
@@ -29,7 +29,7 @@
 <!-End doctoc generated touch please keep comment here to allow Auto Update->
 
 
-# Database Knowledgeable
+# Dir-Structure-ForDD-In-Php
 
 [Readme version in English] (./ Readme-en.md)
 
